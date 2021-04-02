@@ -1,0 +1,10 @@
+.buttonClick{
+        width: 120px;
+        height: 40px;
+        color: thistle;
+        font-size: 15px;
+        background-color: cadetblue;
+        border-radius: 35px;
+        outline: none;
+        margin-top: 20px;
+}
